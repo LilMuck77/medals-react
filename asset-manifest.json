@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/medals-react/static/css/main.15163478.css",
-    "main.js": "/medals-react/static/js/main.8c880285.js",
+    "main.css": "/medals-react/static/css/main.f4d0af27.css",
+    "main.js": "/medals-react/static/js/main.4f7f13d1.js",
     "static/js/592.ab0553fc.chunk.js": "/medals-react/static/js/592.ab0553fc.chunk.js",
     "index.html": "/medals-react/index.html",
-    "main.15163478.css.map": "/medals-react/static/css/main.15163478.css.map",
-    "main.8c880285.js.map": "/medals-react/static/js/main.8c880285.js.map",
+    "main.f4d0af27.css.map": "/medals-react/static/css/main.f4d0af27.css.map",
+    "main.4f7f13d1.js.map": "/medals-react/static/js/main.4f7f13d1.js.map",
     "592.ab0553fc.chunk.js.map": "/medals-react/static/js/592.ab0553fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15163478.css",
-    "static/js/main.8c880285.js"
+    "static/css/main.f4d0af27.css",
+    "static/js/main.4f7f13d1.js"
   ]
 }
